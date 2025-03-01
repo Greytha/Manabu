@@ -1,0 +1,152 @@
+.left{
+	text-align: left;
+	float: left;
+	width: 80%;
+	color:#ec5732;
+}
+.right{
+	text-align: right;
+	float: right;
+	width: 20%;
+  word-spacing: 10px;
+
+}
+
+.main{
+	text-align: right;
+	float: right;
+	width: 150%;
+	padding: 80px;
+	color:#424949 ;
+
+
+}
+main{
+	background-image: url("../image/same.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+footer{
+	text-align: right;
+}
+.spruce{
+	border:1.4px solid #3C3B94;
+  border-radius:8.2px;
+  padding:4px 1px 4px 1px;
+  margin:0;
+  background-color:#273746;
+  color:white;
+  font-weight:100;
+  opacity:1;
+  transition:0.1s;
+}
+.spruce:hover {
+  cursor:pointer;
+  background-color:#ec5732;
+  opacity:0.8;
+  transition:0.1s;
+
+}
+.spruces:hover {
+  cursor:pointer;
+  background-color:#ec5732;
+  opacity:0.8;
+  transition:0.1s;
+
+}
+
+.spruces{
+	border:1.4px solid #3C3B94;
+  border-radius:8.2px;
+  padding:4px 1px 4px 1px;
+  margin:0;
+  background-color:#273746;
+  color:white;
+  font-weight:100;
+  opacity:1;
+  transition:0.1s;
+  width: 25%;
+  height: 44px;
+}
+.lo{
+  text-align: center;
+  
+}
+.loll{
+  display: flex;
+  grid-column: 1fr 1fr 1fr;
+  margin-left: 150px;
+  background-color: #FBFCFC;;
+}
+.loll section {
+  margin-right: 180px;
+  padding-right: 0px;
+  border: 1px solid ;
+  border-radius:  10px;
+  text-align: center;
+  background-color: white;
+  ;
+  
+}
+.loll section p{
+  margin-left: 40px;
+  
+}
+.alert{
+  display: flex;
+  grid-column: 1fr 1fr 1fr;
+  margin-left: 310px;
+  background-color: #FBFCFC;;
+}
+.alert section {
+  margin-right: 150px;
+  padding-right: 0px;
+  border: 0px solid ;
+  border-radius:  10px;
+  text-align: center;
+  background-color: white;
+  ;
+  
+}
+.yval{
+  display: flex;
+  grid-column: 1fr 1fr 1fr;
+  margin-left: 150px;
+  background-color: #FBFCFC;
+}
+.yval section {
+  margin-right: 180px;
+  padding-right: 0px;
+  border: 0px solid ;
+  border-radius:  10px;
+  text-align: center;
+  background-color: #FBFCFC;
+  ;
+}
+.yval section p{
+  margin-left: 40px;
+}
+.olo{
+  display: flex;
+  grid-column: 1fr 1fr 1fr;
+  margin-left: 40px;
+  background-color: #FBFCFC;
+}
+.olo section {
+  margin-right: 80px;
+  padding-right: 0px;
+  border: 0px solid ;
+  border-radius:  10px;
+  text-align: center;
+  background-color: #FBFCFC;
+  ;
+}
+.olo section p{
+  margin-left: 40px;}
+
+.footer{
+  display: grid;
+  text-align: center;
+   background-color: #707B7C;
+}

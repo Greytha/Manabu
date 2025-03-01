@@ -1,0 +1,41 @@
+.left{
+	text-align: left;
+	float: left;
+	color:#ec5732;
+}
+.right{
+	text-align: right;
+	float: right;
+  word-spacing: 10px;}
+  .center{
+    ;text-align: center;
+    float: center;
+  }
+  .bang{
+  	width: 50%;
+  	height: 150px;
+    float: right;
+    background-color: green;
+  }
+  .dschang{
+    float: right;
+    padding: 10;
+  	width: 50%;
+  	height: 150px;
+    background-color: red;
+  }
+  .ewondo{
+  	width: 50%;
+  	height: 150px;
+    float: right;
+    background-color: yellow;
+  }
+  .lo{
+  	text-align: center;
+  }
+  dd{
+  	text-align: left;
+  }
+  body{
+     background-color:#0f2439;
+  }
